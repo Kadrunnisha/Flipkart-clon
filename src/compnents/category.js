@@ -269,7 +269,7 @@ const fun3=()=>{
                     }
                   
                 </li>
-                <li className="l"><Link to="/about/appliances"><img src={appliances}></img><p  className="blue">Appliances</p></Link></li>
+                <li className="l"><Link to="/appliances"><img src={appliances}></img><p  className="blue">Appliances</p></Link></li>
                 <li className="l"><Link to="/about"><img src={travel}></img><p  className="blue">Travel</p></Link></li>
                 <li className="l"><Link to="/about"><img src={offers}></img><p  className="blue">Top-offers</p></Link></li>
                 <li className="l"><Link to="/about"><img src={toys}></img><p  className="blue">toys & beuty </p></Link></li>
